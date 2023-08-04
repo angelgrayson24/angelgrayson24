@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @angelgrayson24
-- 👀 I’m interested in Data analyst Data Engineer
-- 🌱 I’m currently learning Python, SQL, Tableau, Vba Scripting
+- 👀 I’m interested in Data analyst Data Engineer.  I am eager to leverage my analytical mindset and technical skills to contribute to the success of organizations through data-driven strategies and decision-making.I find joy in the process of understanding a problem, collecting relevant data, and using various statistical and analytical techniques to draw meaningful conclusions.As a people-oriented individual, I value the collaborative nature of data analysis.
+- 🌱 I’m currently learning Python, SQL, Tableau, Vba Scripting, visualization
+- Becoming a Data Analyst is not only my professional ambition but also a personal passion. The combination of problem-solving, creativity, continuous learning, collaboration, and ethical considerations makes this field incredibly rewarding for me. I am confident that my enthusiasm, skills, and dedication will make me a valuable asset to any organization, and I look forward to contributing my expertise to help drive data-informed decision-making and foster success.
 - 📫 How to reach me you can contact me through linkedin at https://www.linkedin.com/angelneke-grayson-748376155 Email: agrayson119@icloud.com
 
 
